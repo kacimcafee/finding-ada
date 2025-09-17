@@ -28,3 +28,10 @@ Description: daguerreotype image of Ada Lovelace
 Source: The Conversation
 URL: [https://theconversation.com/ada-lovelaces-skills-with-language-music-and-needlepoint-contributed-to-her-pioneering-work-in-computing-193930]
 Date Accessed: September 17, 2025
+
+# mary-comerville.jpg
+Library of Congress, Washington, D.C. (neg. no. LC-USZ62-51363)
+Description: black and white drawing of Mary Somerville
+Source: Encyclopædia Britannica
+URL: [https://www.britannica.com/biography/Mary-Somerville]
+Date Accessed: September 17, 2025
