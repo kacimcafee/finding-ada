@@ -1,3 +1,6 @@
+<!-- need to site content once added-->
+<!-- add some video content to landing page & site-->
+
 # image citations
 
 ## ada-white-dress.jpg
